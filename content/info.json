@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Salvador e Lauro de Freitas/Ba.",
+    "title": "Frete Grátis"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Até 12x Sem Juros",
+    "title": "Parcelamento Facilitado"
   },
   "exchange": {
     "show": true,
